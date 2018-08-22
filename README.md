@@ -1,6 +1,6 @@
 # media-object
 
-#Bootstrap
+Bootstrap
 
 Going into more depth with bootstrap and learning media object. 
 
